@@ -12,7 +12,7 @@ Script to archive, delete, and/or disable local user accounts. Also prints usage
 
 License
 -------
-Apache 2.0
+GNU General Public License v3.0
 
 Author Information
 ------------------
